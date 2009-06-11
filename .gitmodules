@@ -1,0 +1,3 @@
+[submodule "vendor/extensions/fckeditor"]
+	path = vendor/extensions/fckeditor
+	url = git://github.com/djcp/radiant-fckeditor.git
